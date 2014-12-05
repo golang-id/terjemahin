@@ -3,6 +3,8 @@ terjemahin
 
 Utilitas CLI untuk menterjemahkan teks (menggunakan Yandex API)
 
+*Program ini dibuat untuk screencast ["Menggunakan grunt init go main Untuk Membuat Aplikasi terjemahin"](https://www.youtube.com/watch?v=6AwlPkBpjQI) dibuat*.
+
 ## Install
 
 ```
